@@ -45,14 +45,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/supermagical/react-native-settings.git"
+    "url": "git+https://github.com/supermagical-ltd/react-native-settings.git"
   },
   "author": "Josh Hudnall <joshhudnall@gmail.com> (https://github.com/joshhudnall)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/supermagical/react-native-settings/issues"
+    "url": "https://github.com/supermagical-ltd/react-native-settings/issues"
   },
-  "homepage": "https://github.com/supermagical/react-native-settings#readme",
+  "homepage": "https://github.com/supermagical-ltd/react-native-settings#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
